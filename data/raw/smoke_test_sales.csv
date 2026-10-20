@@ -1,0 +1,6 @@
+Date,Day,Month,Year,Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Sub_Category,Product,Order_Quantity,Unit_Cost,Unit_Price,Profit,Cost,Revenue
+2016-08-01,1,August,2016,29,Young Adults (25-34),F,France,Nord,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,200,118,318
+2016-08-02,2,August,2016,45,Adults (35-64),M,Germany,Hessen,Accessories,Bottles and Cages,Road Bottle Cage,10,3,9,60,30,90
+2016-08-02,2,August,2016,45,Adults (35-64),M,Germany,Hessen,Accessories,Bottles and Cages,Road Bottle Cage,10,3,9,60,30,90
+2016-08-03,3,August,2016,,Youth (<25),f,germany ,Bayern,Accessories,Bottles and Cages,Water Bottle - 30 oz.,4,2,5,12,8,20
+2016-08-04,4,August,2016,52,Adults (35-64),M,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,80,45,120
